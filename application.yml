@@ -1,8 +1,2 @@
 movies:
   pagesize: 4
-
-management:
-  endpoints:
-    web:
-      exposure: 
-        include: *
